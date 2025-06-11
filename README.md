@@ -6,9 +6,8 @@ Este projeto em Python permite extrair informações específicas de um arquivo 
 - Marca
 - Proprietário Atual
 - Telefones
-- Chassi
-- Ano de Fabricação
-- Etc.
+- Exercicio
+- Origem
 
 ---
 
